@@ -9,8 +9,8 @@ email: [kubedrn@gmail.com](mailto:kubedrn@gmail.com)<br>
 
 ## Screenshots
 <p  align="center">
-![Screenshot 2024-03-10 142411](https://github.com/ubednama/currency-converter-js/assets/61332446/b2000876-b1c5-49e4-a419-e88897d4a5da)
-![Screenshot 2024-03-10 142428](https://github.com/ubednama/currency-converter-js/assets/61332446/c33cd6db-b0fc-4206-bae2-39a74775615b)
+  <img src="https://github.com/ubednama/currency-converter-js/assets/61332446/b2000876-b1c5-49e4-a419-e88897d4a5da" alt="screenshot"/>
+  <img src="https://github.com/ubednama/currency-converter-js/assets/61332446/c33cd6db-b0fc-4206-bae2-39a74775615b" alt="screenshot"/>
 </p>
 
 ## Features
